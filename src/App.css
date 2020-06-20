@@ -1,0 +1,79 @@
+.App {
+  text-align: center;
+  font-family: 'MuseoModerno', cursive;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.fullpage{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex: auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav {
+  /* background-color: yellow;  */
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 1rem;
+  padding: 10px;
+}
+
+.first{
+  background-color: navy;
+  color: white;
+}
+.first2{
+  background-color: black;
+  color: white;
+}
+
+.Second{
+    background-color: burlywood;
+}
+.Second2{
+  background-color: burlywood;
+}

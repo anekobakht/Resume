@@ -1,0 +1,73 @@
+{
+    "title":"Hello I'm Alireza Nekobakht!",
+    "subtitle":"Full Stack Dev | Open-Source Enthusiast",
+    "links":{
+        "twitter":"https://twitter.com/ANekobakht",
+        "github":"https://github.com/anekobakht",
+        "stackoverflow":"https://stackoverflow.com/story/alirezanekobakht"
+    },
+    "sections":[
+        {
+            "title":"About",
+            "items":[
+                {
+                    "type":"p",
+                    "content":["More than 10 years of programming experience in various fields such as\nanalysis,", 
+                    "design and launch of financial systems such as warehousing, payroll, accounting, etc. \n in the form of Windows App in Pishgam Processors Company",
+                    "Recruitment at the Information Technology Center of Shahid Beheshti University of Medical Sciences.\n",
+                    "Setting up a system of imams for the leadership institution.",
+                    "Launch a request management system for the support deputy.",
+                    "Setting up a system of suggestions for managing administrative change.",
+                    "Control of hospital information systems (HIS) University-covered hospitals.",
+                    "Control of student information systems related to the faculties covered by this university.",
+                    "Launching Property Management Software of Pasteur Institute of Iran"]
+                }
+            ]
+
+        },
+        {
+            "title":"Skills",
+            "items":[
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"/images/React.png",
+                        "title":"React",
+                        "desc":"Programing Front End With React"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"/images/Java.png",
+                        "title":"Java",
+                        "desc":"Programing With Java Script For Front End"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"/images/Csharp.png",
+                        "title":"C#",
+                        "desc":"Desin Web Pages With Visual Sudio C#"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"/images/Sql.png",
+                        "title":"Sql",
+                        "desc":"Desin Data Structure in Sql Server"
+                    }
+                }
+            ]
+
+        }
+    ],
+    "icons":{
+        "down":"/images/down.png"
+    }
+
+
+
+}
